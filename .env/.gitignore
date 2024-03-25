@@ -1,0 +1,8 @@
+
+
+# Ignore all excel files
+*.xlsx
+
+
+# Ignore Lib
+Lib/
