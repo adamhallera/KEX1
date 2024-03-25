@@ -2,6 +2,7 @@
 
 # Ignore all excel files
 *.xlsx
+*.csv
 
 
 # Ignore Lib
