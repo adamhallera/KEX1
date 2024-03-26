@@ -3,7 +3,11 @@
 # Ignore all excel files
 *.xlsx
 *.csv
+*.txt
 
 
 # Ignore Lib
 Lib/
+
+
+train_data.txt
